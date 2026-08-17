@@ -1,5 +1,7 @@
 # Presentaciones y diseño con IA: de un prompt a un deck terminado (2026)
 
+![Comparativa 2026 — TonyCiencia](banner.png)
+
 Hacer una presentación pasó de ser "arrastrar cajas de texto en PowerPoint durante dos horas" a "escribir lo que necesitás y editar lo que sale". Eso ya casi no se discute. Lo que sí cambia mucho de una herramienta a otra es *qué parte* del trabajo le delegás a la IA: hay quien te genera el deck entero desde una idea suelta, hay quien te ayuda a diseñar mientras vos seguís escribiendo, y hay quien directamente tira el formato de diapositivas por la ventana. Probamos las cinco puntas de esa conversación para armar esta comparativa.
 
 ## La comparativa corta
